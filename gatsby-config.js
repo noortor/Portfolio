@@ -1,12 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/Portfolio',
+  pathPrefix: '/',
   siteMetadata: {
     title: 'Noor Mahini',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Noor Mahini is an aspiring software engineer specializing in building intuitive web applications and engaging video games. ',
+    siteUrl: 'https://noormahini.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
