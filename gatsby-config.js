@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/Portfolio',
+  pathPrefix: '/',
   siteMetadata: {
     title: 'Noor Mahini',
     description:
